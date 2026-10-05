@@ -1,3 +1,5 @@
+[![AgentHub 已收录：commutescout](https://myagenthub.cn/badge/io.github.nicglazkov/commutescout)](https://myagenthub.cn/p/io.github.nicglazkov/commutescout)
+
 <div align="center">
   <img src="docs/logo.svg" width="110" alt="CommuteScout logo">
   <h1>CommuteScout</h1>
